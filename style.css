@@ -1,0 +1,18 @@
+body{
+background-color:darkblue;
+text-align: center;    
+}
+#myCanvas{
+background-color: white;
+border-width:10px;
+border-style: groove;
+border-color: chartreuse;    
+}
+.s{
+font-size: 38px;
+color:lightcyan;    
+}
+#Title{
+font-size: 60px;
+color: darkorange;    
+}
